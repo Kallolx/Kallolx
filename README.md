@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm @kallolx
+# 👋 Hi, I'm Kallol
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+learning+new+things;Passionate+about+coding;Open+for+collaboration)
 
