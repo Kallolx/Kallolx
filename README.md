@@ -1,6 +1,6 @@
 <!-- Hero Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kamrul%20Hasan&fontSize=42&fontColor=white&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Mobile%20App%20Developer%20%7C%20Cloud%20Architect&descSize=16&descAlignY=51" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kamrul%20Hasan&fontSize=42&fontColor=black&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Mobile%20App%20Developer%20%7C%20Cloud%20Architect&descSize=16&descAlignY=51" />
 </div>
 
 <!-- Profile Views Counter -->
