@@ -19,7 +19,7 @@
 name: Kamrul Hasan
 located_in: Dhaka, Bangladesh
 current_job: Full-Stack Software Engineer
-education: ["Self-Taught", "Continuous Learning"]
+education: ["B.Sc In CSE", "Self-Taught Developer"]
 company: Freelance & Open Source
 
 fields_of_interests:
