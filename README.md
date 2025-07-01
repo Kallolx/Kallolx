@@ -166,16 +166,6 @@ hobbies: ["Tech Blogging", "Photography", "Gaming"]
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kallolx&repo=portfolio&theme=tokyonight&hide_border=true)](https://github.com/kallolx/portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kallolx&repo=flutter-projects&theme=tokyonight&hide_border=true)](https://github.com/kallolx/flutter-projects)
-
-</div>
-
----
 
 ## 🤝 Connect With Me
 
@@ -196,14 +186,6 @@ hobbies: ["Tech Blogging", "Photography", "Gaming"]
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
----
-
-## 🐍 Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kallolx/kallolx/output/github-contribution-grid-snake.svg" />
-</div>
-
----
 
 <div align="center">
 
