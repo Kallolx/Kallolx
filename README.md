@@ -1,264 +1,209 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hey there! I'm Kamrul Hasan
+<!-- Animated Header with Particles -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=200&section=header&text=KAMRUL%20HASAN&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Mobile%20Engineer%20|%20Cloud%20Architect&descAlignY=51&descAlign=50" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%F0%9F%9A%80+Full-Stack+Architect;%F0%9F%93%B1+Mobile+App+Craftsman;%E2%98%81%EF%B8%8F+Cloud+Native+Engineer;%F0%9F%8E%A8+UI%2FUX+Enthusiast" alt="Typing Animation" />
-
-<p>
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-blue?style=flat-square&logo=&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lives-Dhaka,%20Bangladesh-success?style=flat-square&logo=&logoColor=white" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Bengali-red?style=flat-square&logo=&logoColor=white" />
+<!-- Animated Typing -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+Digital+Experiences;MERN+•+Flutter+•+Cloud;System+Design+Enthusiast" alt="Typing SVG" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Glowing Badges -->
+<p align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/Dhaka-Bangladesh-00D9FF?style=for-the-badge&logo=location&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Open%20To-Collaborate-FF6B6B?style=for-the-badge&logo=comment-discussion&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Focus-Full%20Stack-9B59B6?style=for-the-badge&logo=rocket&logoColor=white" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
-## 🎯 Quick Overview
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> About Me
 
-```javascript
-const kamrul = {
-    pronouns: "He" | "Him",
-    location: "Dhaka, Bangladesh 🇧🇩",
-    code: ["JavaScript", "TypeScript", "Python", "Dart", "Kotlin", "Swift"],
-    askMeAbout: ["web dev", "mobile dev", "cloud", "system design", "UI/UX"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Vue", "Svelte"],
-            css: ["Tailwind", "Sass", "Styled Components", "Framer Motion"]
-        },
-        mobileApp: {
-            crossPlatform: ["Flutter", "React Native"],
-            native: ["Kotlin", "Swift"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express", "Nest.js"],
-            python: ["Django", "FastAPI", "Flask"],
-            misc: ["GraphQL", "REST API", "WebSockets"]
-        },
-        databases: ["PostgreSQL", "MongoDB", "Redis", "Firebase", "MySQL"],
-        cloudServices: ["AWS", "GCP", "Azure", "Vercel", "Netlify"],
-        devOps: ["Docker", "Kubernetes", "CI/CD", "GitHub Actions"],
-        design: ["Figma", "Adobe XD", "Photoshop", "Illustrator", "Blender"]
-    },
-    currentFocus: "Building scalable SaaS products & contributing to open source",
-    funFact: "I can debug faster than I can cook instant noodles 🍜"
+```typescript
+interface Developer {
+  name: string;
+  role: string;
+  location: string;
+  languages: string[];
+  architecture: string[];
+}
+
+const kamrul: Developer = {
+  name: "Kamrul Hasan",
+  role: "Full-Stack Software Engineer",
+  location: "Dhaka, Bangladesh 🇧🇩",
+  languages: ["TypeScript", "JavaScript", "Python", "Dart", "Kotlin"],
+  architecture: ["Microservices", "Event-Driven", "Serverless", "MVC"]
+};
+
+// Current Status
+const status = {
+  working: "SaaS Platform with Next.js 14 & tRPC",
+  learning: "Kubernetes & System Design",
+  exploring: "AI Integration & Web3",
+  available: "Freelance Projects ✅"
 };
 ```
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30" /> Tech Arsenal
+
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🛠️ Tech Stack & Tools
-
-### 👨‍💻 Programming Languages
-
+### Frontend & Design
 <p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-  <img alt="Swift" src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 
-### 🎨 Frontend Development
-
+### Mobile Development
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-  <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Framer Motion" src="https://img.shields.io/badge/-Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
 </p>
 
-### 📱 Mobile Development
-
+### Backend & APIs
 <p>
-  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img alt="React Native" src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-  <img alt="iOS" src="https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=ios&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 </p>
 
-### ⚙️ Backend Development
-
+### Database & Cache
 <p>
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-### 🗄️ Databases & Cloud
-
+### Cloud & DevOps
 <p>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img alt="Google Cloud" src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 </p>
 
-### 🚀 DevOps & Tools
-
+### Tools & Design
 <p>
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
-## 📊 GitHub Statistics
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kallolx&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&count_private=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kallolx&theme=react&hide_border=true&background=1F222E&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" />
-</p>
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> GitHub Analytics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallolx&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&langs_count=10" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=kallolx&custom_title=Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area_color=F85D7F&area=true&hide_border=true" />
-</p>
+<div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kallolx&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF&bg_color=0D1117&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=kallolx&theme=transparent&hide_border=true&fire=FF6B6B&ring=00D9FF&currStreakLabel=00D9FF&background=0D1117" />
 
-## 🏆 GitHub Trophies
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallolx&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=FFFFFF&bg_color=0D1117&langs_count=8&hide=html,css" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=kallolx&theme=high-contrast&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFFFFF&area=true&custom_title=Contribution%20Activity" />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kallolx&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
-</p>
+</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## 🎯 What I'm Currently Working On
+## <img src="https://user-images.githubusercontent.com/74038190/216122003-15d35798-330f-4ea1-9419-82940bb7efe4.png" width="30" /> Achievements
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🚀 Current Projects</h3>
-      <p>• Building a SaaS platform with Next.js 14</p>
-      <p>• Flutter e-commerce mobile app</p>
-      <p>• Open source contributions</p>
-    </td>
-    <td align="center" width="50%">
-      <h3>📚 Learning Path</h3>
-      <p>• Advanced System Design</p>
-      <p>• Kubernetes & DevOps</p>
-      <p>• GraphQL & Apollo</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>💡 Interests</h3>
-      <p>• Web3 & Blockchain</p>
-      <p>• AI/ML Integration</p>
-      <p>• Cloud Native Applications</p>
-    </td>
-    <td align="center" width="50%">
-      <h3>🎨 Design Skills</h3>
-      <p>• UI/UX Design in Figma</p>
-      <p>• 3D Modeling in Blender</p>
-      <p>• Motion Graphics</p>
-    </td>
-  </tr>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kallolx&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30" /> What I'm Working On
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Current Projects
+- 🔥 **SaaS Platform** - Next.js 14, tRPC, Prisma
+- 📱 **E-commerce App** - Flutter with Firebase
+- 🤝 **Open Source** - Contributing to React ecosystem
+- 🎨 **Portfolio 2.0** - Three.js + React
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 Learning Journey
+- ⚡ Advanced System Design patterns
+- 🐳 Kubernetes & container orchestration
+- 🧠 AI/ML integration with LangChain
+- 🌐 Web3 & Smart Contracts basics
+
+</td>
+</tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## 🎨 Featured Projects
-
-<div width="100%" align="center">
-  <a href="https://github.com/kallolx/project-1" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kallolx&repo=project-1&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
-  </a>
-  <a href="https://github.com/kallolx/project-2" align="right">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kallolx&repo=project-2&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
-  </a>
-</div>
-
-<br><br><br><br><br><br>
-
-<div width="100%" align="center">
-  <a href="https://github.com/kallolx/project-3" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kallolx&repo=project-3&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
-  </a>
-  <a href="https://github.com/kallolx/project-4" align="right">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kallolx&repo=project-4&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
-  </a>
-</div>
-
-<br><br><br><br><br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kallolx/kallolx/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kallolx/kallolx/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kallolx/kallolx/output/github-contribution-grid-snake.svg">
-</picture>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💬 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://kallolsfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/kamrul-hasan-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:kallol.business.ds@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.leetcode.com/aw7knxg2gd">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://fb.com/kamrulhasan.kallol.9">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30" /> Connect With Me
 
 <div align="center">
 
-### 💼 Available for Freelance Work & Exciting Collaborations
+<a href="https://kallolsfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge" />
+</a>
+<a href="https://linkedin.com/in/kamrul-hasan-dev">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:kallol.business.ds@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.leetcode.com/aw7knxg2gd">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://fb.com/kamrulhasan.kallol.9">
+  <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
 
-**Let's build something extraordinary together! 🚀**
+<br><br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
+### 💼 Open to Freelance Work & Collaborations
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kallolx&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-### ⭐ Show some ❤️ by starring some of my repositories!
+### "Code is Art, Debugging is Therapy" 🎨
+
+<img src="https://komarev.com/ghpvc/?username=kallolx&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
+
+</div>
+
+<!-- Animated Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=120&section=footer" />
 
 </div>
