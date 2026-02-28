@@ -3,11 +3,6 @@
 <!-- Animated Header with Particles -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=200&section=header&text=KAMRUL%20HASAN&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Mobile%20Engineer%20|%20Cloud%20Architect&descAlignY=51&descAlign=50" />
 
-<!-- Animated Typing -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+Digital+Experiences;MERN+•+Flutter+•+Cloud;System+Design+Enthusiast" alt="Typing SVG" />
-</p>
-
 <!-- Glowing Badges -->
 <p align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/Dhaka-Bangladesh-00D9FF?style=for-the-badge&logo=location&logoColor=white" />
