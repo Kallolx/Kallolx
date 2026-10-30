@@ -39,15 +39,6 @@ Full-stack engineer from Dhaka. I build products end to end — database schema 
 | **Wonderscore.ai** | Leading development of AI marketing agents |
 | **Learning** | System design at scale, AI agent architecture |
 
-### 📈 Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kallolx/kallolx/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kallolx/kallolx/output/snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/kallolx/kallolx/output/snake.svg" width="100%" />
-</picture>
-
----
 
 <div align="center">
 <sub>Ship it, measure it, make it better.</sub>
